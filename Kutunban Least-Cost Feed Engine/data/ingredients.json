@@ -1,0 +1,62 @@
+{
+  "Maize": {
+    "cost_per_kg": 840,
+    "nutrients": {
+      "crude_protein": 0.088,
+      "energy_kcal": 3350,
+      "crude_fiber": 0.022,
+      "calcium": 0.0002,
+      "lysine": 0.0024
+    }
+  },
+  "Sorghum": {
+    "cost_per_kg": 700,
+    "nutrients": {
+      "crude_protein": 0.10,
+      "energy_kcal": 3200,
+      "crude_fiber": 0.025,
+      "calcium": 0.0004,
+      "lysine": 0.0022
+    }
+  },
+  "Soybean_Meal": {
+    "cost_per_kg": 1400,
+    "nutrients": {
+      "crude_protein": 0.44,
+      "energy_kcal": 2230,
+      "crude_fiber": 0.06,
+      "calcium": 0.0029,
+      "lysine": 0.026
+    }
+  },
+  "Groundnut_Cake": {
+    "cost_per_kg": 1100,
+    "nutrients": {
+      "crude_protein": 0.45,
+      "energy_kcal": 2500,
+      "crude_fiber": 0.05,
+      "calcium": 0.002,
+      "lysine": 0.017
+    }
+  },
+  "Wheat_Offal": {
+    "cost_per_kg": 400,
+    "nutrients": {
+      "crude_protein": 0.15,
+      "energy_kcal": 1800,
+      "crude_fiber": 0.085,
+      "calcium": 0.001,
+      "lysine": 0.0055
+    }
+  },
+  "Bone_Meal": {
+    "cost_per_kg": 250,
+    "nutrients": {
+      "crude_protein": 0.0,
+      "energy_kcal": 0,
+      "crude_fiber": 0.0,
+      "calcium": 0.24,
+      "lysine": 0.0
+    }
+  }
+}
