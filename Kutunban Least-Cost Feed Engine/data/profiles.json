@@ -1,0 +1,98 @@
+{
+  "broiler_starter": {
+    "name": "Broiler Starter Mash",
+    "min_constraints": {
+      "crude_protein": 0.23,
+      "energy_kcal": 3000,
+      "calcium": 0.010,
+      "lysine": 0.012
+    },
+    "max_constraints": {
+      "crude_fiber": 0.04
+    }
+  },
+  "broiler_finisher": {
+    "name": "Broiler Finisher Mash",
+    "min_constraints": {
+      "crude_protein": 0.19,
+      "energy_kcal": 2900,
+      "calcium": 0.009,
+      "lysine": 0.010
+    },
+    "max_constraints": {
+      "crude_fiber": 0.05
+    }
+  },
+  "noiler_grower": {
+    "name": "Noiler Grower Mash",
+    "min_constraints": {
+      "crude_protein": 0.17,
+      "energy_kcal": 2750,
+      "calcium": 0.010,
+      "lysine": 0.008
+    },
+    "max_constraints": {
+      "crude_fiber": 0.06
+    }
+  },
+  "layer_phase_1": {
+    "name": "Layer Mash (Phase 1)",
+    "min_constraints": {
+      "crude_protein": 0.175,
+      "energy_kcal": 2750,
+      "calcium": 0.038,
+      "lysine": 0.0085
+    },
+    "max_constraints": {
+      "crude_fiber": 0.06
+    }
+  },
+  "pig_grower": {
+    "name": "Pig Grower Feed",
+    "min_constraints": {
+      "crude_protein": 0.16,
+      "energy_kcal": 3100,
+      "calcium": 0.006,
+      "lysine": 0.0085
+    },
+    "max_constraints": {
+      "crude_fiber": 0.06
+    }
+  },
+  "rabbit_grower": {
+    "name": "Rabbit Grower Feed",
+    "min_constraints": {
+      "crude_protein": 0.16,
+      "energy_kcal": 2500,
+      "calcium": 0.008,
+      "lysine": 0.006
+    },
+    "max_constraints": {
+      "crude_fiber": 0.14
+    }
+  },
+  "goat_fattening": {
+    "name": "Goat Fattening Feed",
+    "min_constraints": {
+      "crude_protein": 0.14,
+      "energy_kcal": 2500,
+      "calcium": 0.005,
+      "lysine": 0.004
+    },
+    "max_constraints": {
+      "crude_fiber": 0.12
+    }
+  },
+  "dairy_cow_lactating": {
+    "name": "Lactating Dairy Cattle Concentrate",
+    "min_constraints": {
+      "crude_protein": 0.16,
+      "energy_kcal": 2400,
+      "calcium": 0.006,
+      "lysine": 0.005
+    },
+    "max_constraints": {
+      "crude_fiber": 0.15
+    }
+  }
+}
