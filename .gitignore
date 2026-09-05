@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+*.mp4
+*.mkv
+*.webm
+*.mp3
+.vscode/
+.idea/
